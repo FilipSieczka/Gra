@@ -1,0 +1,49 @@
+﻿  GRA.cpp
+C:\GRA\GRA\GRA\GRA.cpp(439,55): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(439,55): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(439,55): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(439,55): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(439,55): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(453,74): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(518,74): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(586,53): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(586,53): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(586,53): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(586,53): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(586,53): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(596,83): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(596,83): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(596,83): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(596,83): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(596,83): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(596,56): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(596,56): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(596,56): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(596,56): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(596,56): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(638,92): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(638,92): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(638,92): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(638,92): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(638,92): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(638,68): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(638,68): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(638,68): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(638,68): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(638,68): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(765,53): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(765,53): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(765,53): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(765,53): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(765,53): warning C4244:         ]
+C:\GRA\GRA\GRA\GRA.cpp(800,53): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\GRA\GRA\GRA\GRA.cpp(800,53): warning C4244:         with
+C:\GRA\GRA\GRA\GRA.cpp(800,53): warning C4244:         [
+C:\GRA\GRA\GRA\GRA.cpp(800,53): warning C4244:             T=unsigned int
+C:\GRA\GRA\GRA\GRA.cpp(800,53): warning C4244:         ]
+  Trwa generowanie kodu
+  1 of 626 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  GRA.vcxproj -> C:\GRA\GRA\x64\Release\GRA.exe
